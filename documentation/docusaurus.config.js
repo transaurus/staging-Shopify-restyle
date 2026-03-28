@@ -1,4 +1,8 @@
 module.exports = {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },
   title: 'Restyle',
   tagline:
     'A type-enforced system for building UI components in React Native with TypeScript.',

@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Fundamentals": {
+    "message": "Fundamentals",
+    "description": "The label for category Fundamentals in sidebar docs"
+  },
+  "sidebar.docs.category.Fundamentals.link.generated-index.title": {
+    "message": "Fundamentals",
+    "description": "The generated-index page title for category Fundamentals in sidebar docs"
+  },
+  "sidebar.docs.category.Components": {
+    "message": "Components",
+    "description": "The label for category Components in sidebar docs"
+  },
+  "sidebar.docs.category.Components.link.generated-index.title": {
+    "message": "Components",
+    "description": "The generated-index page title for category Components in sidebar docs"
+  },
+  "sidebar.docs.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category Guides in sidebar docs"
+  },
+  "sidebar.docs.category.Guides.link.generated-index.title": {
+    "message": "Guides",
+    "description": "The generated-index page title for category Guides in sidebar docs"
+  },
+  "sidebar.docs.doc.Getting started": {
+    "message": "Getting started",
+    "description": "The label for the doc item Getting started in sidebar docs, linking to the doc getting-started"
+  }
+}
